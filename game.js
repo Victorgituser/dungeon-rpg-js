@@ -1,5 +1,4 @@
 const readlineSync = require('readline-sync');
-
 class Player{
     constructor(hp=20,attackPower=4){
         this.hp = hp;
